@@ -34,7 +34,7 @@ export default function App() {
       <h1 style={{ color: "var(--primary-color)" }}>🎮 Game Ratings</h1>
       <h2
         style={{
-          fontSize: "1.5rem",
+          fontSize: "1.7rem",
           fontWeight: "bold",
           color: "var(--primary-color)"
         }}

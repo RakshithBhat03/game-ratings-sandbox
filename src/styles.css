@@ -22,6 +22,7 @@ h2 {
   text-shadow: 1px 3px var(--shadow-color);
 }
 h1 {
+  font-size: 3rem;
   text-shadow: 1px 3px var(--shadow-color);
 }
 .App {
@@ -49,7 +50,7 @@ button:hover {
 .displayDiv {
   margin: 2rem auto;
   text-align: center;
-  max-width: 500px;
+  max-width: 550px;
 }
 .displayDiv ul {
   padding-inline-start: 0px;
