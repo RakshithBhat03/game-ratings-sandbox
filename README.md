@@ -1,2 +1,2 @@
 # game-ratings
-Created with CodeSandbox
+Interactive React app based on some of the most played games in the world.
